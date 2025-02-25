@@ -12,7 +12,7 @@ ms.custom:
 
 **Applies to:** [!INCLUDE [fabric-se-and-dw](includes/applies-to-version/fabric-se-and-dw.md)]
 
-Row-level security (RLS) enables you to use group membership or execution context to control access to rows in a database table. For example, you can ensure that workers access only those data rows that are pertinent to their department. Another example is to restrict customers' data access to only the data relevant to their company in a multitenant architecture. The feature is similar to row-level security in [SQL Server](/sql/relational-databases/security/row-level-security?view=fabric&preserve-view=true).
+Row-level security (RLS) enables you to use role membership or execution context to control access to rows in a database table. For example, you can ensure that workers access only those data rows that are pertinent to their department. Another example is to restrict customers' data access to only the data relevant to their company in a multitenant architecture. The feature is similar to row-level security in [SQL Server](/sql/relational-databases/security/row-level-security?view=fabric&preserve-view=true).
 
 ## Row-level security at the data level
 
